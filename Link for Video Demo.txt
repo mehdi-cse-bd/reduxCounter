@@ -1,0 +1,33 @@
+Link for Demo:
+https://www.youtube.com/watch?v=qIfx9WP-Nss&ab_channel=MehdiHasan
+
+
+
+
+
+
+import { v4 as uuidv4 } from 'uuid';
+
+const { v4: uuidv4 } = require('uuid');
+
+
+Front end and backend all npm is installed here in this app with bootstrap
+
+front end 
+clt+shit+` to open terminal 
+cd .\frontend 
+npx create-react-app .
+npm start
+npm i axios react-hot-toast react-icons react-toastify react-router-dom react-redux react-quill @reduxjs/toolkit
+
+backend 
+npm start 
+
+ npm i bcryptjs
+  npm i cookie-parser
+   npm i dotenv
+   npm i express
+   npm i jsonwebtoken
+  npm i mongoose
+   npm i nodemon
+npm i morgan
